@@ -1,6 +1,7 @@
-﻿# CleanArchitecture
+﻿# CleanArchitecture - Update by Huynd
 
-The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/CleanArchitecture) version 8.0.0.
+## Migration
+
 
 ## Build
 
@@ -55,4 +56,3 @@ dotnet test
 ```
 
 ## Help
-To learn more about the template go to the [project website](https://github.com/JasonTaylorDev/CleanArchitecture). Here you can find additional guidance, request new features, report a bug, and discuss the template with other users.
